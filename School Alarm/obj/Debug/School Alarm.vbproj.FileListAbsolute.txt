@@ -1,0 +1,46 @@
+C:\Users\user1\Desktop\School Alarm\School Alarm\bin\Debug\School Alarm.exe.config
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\School_Alarm.Alarm_settings.resources
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\School_Alarm.alarm.resources
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\School_Alarm.mainframe.resources
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\School_Alarm.Resources.resources
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\School_Alarm.mainframe.da-DK.resources
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\School_Alarm.mainframe.en.resources
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\School_Alarm.mainframe.nqo.resources
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\School Alarm.vbproj.GenerateResource.Cache
+C:\Users\user1\Desktop\School Alarm\School Alarm\bin\Debug\School Alarm.exe
+C:\Users\user1\Desktop\School Alarm\School Alarm\bin\Debug\School Alarm.pdb
+C:\Users\user1\Desktop\School Alarm\School Alarm\bin\Debug\School Alarm.xml
+C:\Users\user1\Desktop\School Alarm\School Alarm\bin\Debug\da-DK\School Alarm.resources.dll
+C:\Users\user1\Desktop\School Alarm\School Alarm\bin\Debug\en\School Alarm.resources.dll
+C:\Users\user1\Desktop\School Alarm\School Alarm\bin\Debug\nqo\School Alarm.resources.dll
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\da-DK\School Alarm.resources.dll
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\en\School Alarm.resources.dll
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\nqo\School Alarm.resources.dll
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\School Alarm.exe
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\School Alarm.xml
+C:\Users\user1\Desktop\School Alarm\School Alarm\obj\Debug\School Alarm.pdb
+C:\Users\user1\Desktop\School Alarm\bin\Debug\School Alarm.exe.config
+C:\Users\user1\Desktop\School Alarm\obj\Debug\School Alarm.exe
+C:\Users\user1\Desktop\School Alarm\obj\Debug\School Alarm.xml
+C:\Users\user1\Desktop\School Alarm\obj\Debug\School Alarm.pdb
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\bin\Debug\School Alarm.exe.config
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\School Alarm.exe
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\School Alarm.xml
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\School Alarm.pdb
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\bin\Debug\School Alarm.exe
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\bin\Debug\School Alarm.pdb
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\bin\Debug\School Alarm.xml
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\bin\Debug\da-DK\School Alarm.resources.dll
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\bin\Debug\en\School Alarm.resources.dll
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\bin\Debug\nqo\School Alarm.resources.dll
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\School_Alarm.Alarm_settings.resources
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\School_Alarm.alarm.resources
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\School_Alarm.mainframe.resources
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\School_Alarm.Resources.resources
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\School_Alarm.mainframe.da-DK.resources
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\School_Alarm.mainframe.en.resources
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\School_Alarm.mainframe.nqo.resources
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\School Alarm.vbproj.GenerateResource.Cache
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\da-DK\School Alarm.resources.dll
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\en\School Alarm.resources.dll
+C:\Users\user1\Documents\Programming\Projects\school alarm\School Alarm\obj\Debug\nqo\School Alarm.resources.dll
